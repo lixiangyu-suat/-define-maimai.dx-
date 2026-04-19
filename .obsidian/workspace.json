@@ -4,53 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "25e93375fc974162",
-        "type": "tabs",
-        "dimension": 67.30205278592375,
-        "children": [
-          {
-            "id": "d483341292723000",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "multiset.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "multiset"
-            }
-          },
-          {
-            "id": "4176b819deaa0953",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "multiset.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "multiset"
-            }
-          }
-        ]
-      },
-      {
         "id": "fb7c347787cc8f11",
         "type": "tabs",
-        "dimension": 32.697947214076244,
         "children": [
           {
             "id": "a03ea61d9554f48d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "背包DP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "背包DP"
             }
           }
         ]
@@ -215,11 +183,15 @@
       "bases:新建数据库": false
     }
   },
-  "active": "d483341292723000",
+  "active": "a03ea61d9554f48d",
   "lastOpenFiles": [
+    "multiset.md",
+    "动态规划.md",
+    "背包DP.md",
+    "模板默写.cpp",
+    "P10815快速读入.cpp",
     "贪心算法.md",
     "随机数生成.md",
-    "multiset.md",
     "欢迎.md"
   ]
 }
