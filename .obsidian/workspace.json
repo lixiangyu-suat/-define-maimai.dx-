@@ -212,16 +212,25 @@
       "bases:新建数据库": false
     }
   },
-  "active": "bf2aab51aaca93e0",
+  "active": "735e292af8dbf7f1",
   "lastOpenFiles": [
+    "贪心/P1106 删数问题.cpp",
+    "搜索入门/P1706 全排列问题.cpp",
+    "搜索入门/P1605 迷宫.cpp",
+    "搜索入门/P1443 马的遍历.cpp",
+    "搜索入门/P1135 奇怪的电梯.cpp",
+    "搜索入门",
+    "贪心/part1——贪心.pdf",
+    "贪心/P1803 凌乱的yyy _线段覆盖.cpp",
+    "贪心/P1223 排队接水.cpp",
+    "贪心/P1080 [NOIP 2012 提高组] 国王游戏.cpp",
+    "贪心/BigInt.cpp",
     "背包DP.md",
     "高精度.md",
     "动态规划.md",
     "multiset.md",
     "bfs.md",
     "贪心.md",
-    "模板默写.cpp",
-    "P10815快速读入.cpp",
     "随机数生成.md",
     "欢迎.md"
   ]
