@@ -17,7 +17,7 @@ inline int read()
 
     while(c >= '0' && c <= '9')
     {
-        x=x*10+(c-'0');
+        x= x<<1 ＋ x<<2 ＋ c^48;
         c=_getchar_nolock();
     }
 
