@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8f0b3dbe1fe7be43",
+        "id": "09d153fcde32a2a9",
         "type": "tabs",
         "children": [
           {
-            "id": "a3b3adbdd87edf95",
+            "id": "0d234e6d9354078f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "分治算法.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "分治算法"
-            }
-          },
-          {
-            "id": "e3c99c2b1f8f6228",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "动态规划/背包DP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "背包DP"
-            }
-          },
-          {
-            "id": "6194066d3f652ac3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "匈牙利算法.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "匈牙利算法"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,24 +179,37 @@
       "bases:新建数据库": false
     }
   },
-  "active": "6194066d3f652ac3",
+  "active": "0d234e6d9354078f",
   "lastOpenFiles": [
-    "动态规划/P1782 旅行商的背包 样例.md",
     "动态规划/背包DP.md",
+    "Pasted image 20260502151534.png",
+    "Pasted image 20260429202008.jpg",
+    "动态规划/GDCPC2025_G 货币系统.md",
+    "数论/阶乘的逆元（模板）.md",
+    "数论/数论.md",
+    "对接硬件.md",
+    "数论/gcd和lcm.md",
+    "贪心/贪心.md",
+    "数论",
+    "数据结构/AI对图的拓展.md",
+    "数据结构/数据结构.md",
+    "数据结构/树.md",
+    "数据结构",
+    "贪心/随机数生成.md",
+    "网络流.md",
+    "匈牙利算法.md",
+    "动态规划/动态规划.md",
+    "bitset.md",
+    "动态规划/P1782 旅行商的背包 样例.md",
     "动态规划/最长公共子序列.md",
     "搜索入门/bfs.md",
     "搜索入门/骑士精神.md",
     "搜索入门/dfs.md",
     "高级数据结构/线段树.md",
     "高级数据结构/树状数组.md",
-    "对接硬件.md",
-    "动态规划/动态规划.md",
     "高级数据结构/线段树模板v3.cpp",
     "高级数据结构/线段树模板.cpp",
     "高级数据结构/线段树模板v2.cpp",
-    "Pasted image 20260502151534.png",
-    "匈牙利算法.md",
-    "Pasted image 20260429202008.jpg",
     "动态规划/P1782_单调队列优化.cpp",
     "分治算法.md",
     "贪心/part1——贪心.pdf",
@@ -237,20 +217,6 @@
     "高级数据结构/P3374.cpp",
     "高级数据结构/P3368.cpp",
     "高级数据结构/树状数组.cpp",
-    "动态规划/P1782.cpp",
-    "首页Link.md",
-    "小技巧/P10815快速读入.cpp",
-    "小技巧/小技巧.md",
-    "小技巧.md",
-    "高级数据结构/单调栈.md",
-    "README.md",
-    "高级数据结构/单调队列.md",
-    "高级数据结构/multiset.md",
-    "简介.md",
-    "数学/取余符号.md",
-    "高精度.md",
-    "动态规划.md",
-    "贪心/随机数生成.md",
-    "贪心/贪心.md"
+    "首页Link.md"
   ]
 }

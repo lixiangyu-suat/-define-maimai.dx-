@@ -71,3 +71,24 @@
 - 当 $w_i$ 小时，你访问 `dp[j], dp[j+w_i], dp[j+2w_i]`，这些点距离很近，很可能都在同一个缓存行里，速度飞快。
     
 - 当 $w_i$ 很大时（比如 $w_i = 5000$），你访问完 `dp[1]`，下一个点就要跳到 `dp[5001]`。CPU 必须重新去内存里拉取数据，这种 **Cache Miss** 会导致明显的性能下降。
+
+# 泛化物品处理
+```c
+/**
+ * @param dp_a 目标/主物品状态数组（合并后的结果存回这里）
+   next_dp:临时存储
+ * @param dp_b 新加入的泛化物品状态数组
+ * @param M    背包最大容量
+ */
+void merge(vector<int>& dp_a, const vector<int>& dp_b, int M) {
+    vector<int> next_dp(M + 1, -1e9); // 临时数组，防止覆盖
+    for (int j = 0; j <= M; j++) {           // 总分配容量
+        for (int k = 0; k <= j; k++) {       // 分配给新物品 b 的容量
+            if (dp_a[j - k] != -1e9 && dp_b[k] != -1e9) {
+                next_dp[j] = max(next_dp[j], dp_a[j - k] + dp[b][k]);
+            }
+        }
+    }
+    dp_a = next_dp;
+}
+```
