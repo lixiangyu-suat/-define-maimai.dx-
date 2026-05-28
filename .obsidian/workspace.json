@@ -185,6 +185,8 @@
   },
   "active": "d11c510b796abfa8",
   "lastOpenFiles": [
+    "Tarjan算法/Tarjan.cpp",
+    "Tarjan算法",
     "动态规划/背包DP.md",
     "Pasted image 20260429202008.jpg",
     "Pasted image 20260502151534.png",
@@ -222,7 +224,6 @@
     "动态规划/P1782_单调队列优化.cpp",
     "贪心/part1——贪心.pdf",
     "高级数据结构/P3374.cpp",
-    "高级数据结构/P3368.cpp",
-    "高级数据结构/树状数组.cpp"
+    "高级数据结构/P3368.cpp"
   ]
 }
