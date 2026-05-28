@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "09d153fcde32a2a9",
+        "id": "fb349199a0ddc81b",
         "type": "tabs",
         "children": [
           {
-            "id": "0d234e6d9354078f",
+            "id": "d11c510b796abfa8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "动态规划/输出和统计DP方案.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "输出和统计DP方案"
             }
           }
         ]
@@ -179,17 +183,26 @@
       "bases:新建数据库": false
     }
   },
-  "active": "0d234e6d9354078f",
+  "active": "d11c510b796abfa8",
   "lastOpenFiles": [
     "动态规划/背包DP.md",
-    "Pasted image 20260502151534.png",
     "Pasted image 20260429202008.jpg",
+    "Pasted image 20260502151534.png",
+    "Pasted image 20260526105711.png",
+    "动态规划/输出和统计DP方案.md",
+    "Pasted image 20260527123903.png",
+    "算法信息源.md",
+    "动态规划/动态规划.md",
+    "贪心/贪心.md",
+    "学习主干.md",
+    "动态规划/凸函数优化问题.md",
+    "贪心反悔.md",
+    "二分.md",
     "动态规划/GDCPC2025_G 货币系统.md",
     "数论/阶乘的逆元（模板）.md",
     "数论/数论.md",
     "对接硬件.md",
     "数论/gcd和lcm.md",
-    "贪心/贪心.md",
     "数论",
     "数据结构/AI对图的拓展.md",
     "数据结构/数据结构.md",
@@ -198,25 +211,18 @@
     "贪心/随机数生成.md",
     "网络流.md",
     "匈牙利算法.md",
-    "动态规划/动态规划.md",
     "bitset.md",
     "动态规划/P1782 旅行商的背包 样例.md",
     "动态规划/最长公共子序列.md",
     "搜索入门/bfs.md",
     "搜索入门/骑士精神.md",
-    "搜索入门/dfs.md",
-    "高级数据结构/线段树.md",
-    "高级数据结构/树状数组.md",
     "高级数据结构/线段树模板v3.cpp",
     "高级数据结构/线段树模板.cpp",
     "高级数据结构/线段树模板v2.cpp",
     "动态规划/P1782_单调队列优化.cpp",
-    "分治算法.md",
     "贪心/part1——贪心.pdf",
-    "背包DP.md",
     "高级数据结构/P3374.cpp",
     "高级数据结构/P3368.cpp",
-    "高级数据结构/树状数组.cpp",
-    "首页Link.md"
+    "高级数据结构/树状数组.cpp"
   ]
 }

@@ -1,4 +1,6 @@
 特征1：dp依赖于前n-1个值中某几个值，因此不能像斐波那契数列一样把O(N)->O(2);
+[[凸函数优化问题]]
+[[输出和统计DP方案]]
 
 # Codeforces 148E - Porcelain
 #### 原文 (Original Text)
