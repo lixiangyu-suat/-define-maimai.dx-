@@ -1,0 +1,64 @@
+/*
+
+#include <bits/stdc++.h>
+using namespace std;
+
+const int N = 55;
+int a[N];
+
+struct State{
+    vector<int> down;
+    vector<int> up;
+    int tot;
+};
+
+bool check_update_up(State& state, int x){
+    for (auto it = state.up.rbegin(); it != state.up.rend(); it++){
+        if (x < *it){
+            *it = x;
+            return true;
+        }
+    }
+    return false;
+}
+bool check_update_down(State& state, int x){
+    for (auto it = state.down.rbegin(); it != state.down.rend(); it++){
+        if (x < *it){
+            *it = x;
+            return true;
+        }
+    }
+    return false;
+}
+int main(){
+    int n;
+    while (true){
+        cin >> n;
+        if (n == 0) return 0;
+        for (int i = 1; i <= n; i++){
+            cin >> a[i];
+        }
+        
+        vector<State> states;
+        for (int i = 1; i <= n; i++){
+            if (i == 1){
+                State s1, s2;
+                s1.down.push_back(a[i]);
+                s2.down.push_back(a[i]);
+                s1.tot = s2.tot = 1;
+                states.push_back(s1);
+                states.push_back(s2);
+            }
+            for (auto& state : states){
+                State temp1 = state, temp2 = state;
+                bool t1 = check_update_up(temp1, a[i]), t2 = check_update_down(temp1, a[i]);
+
+                if (){
+                    state = temp;
+                }
+            }
+        }
+    }
+    return 0;
+}
+    */
